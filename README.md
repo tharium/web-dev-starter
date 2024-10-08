@@ -1,2 +1,2 @@
 # web-dev-starter
-Boilerplate for web dev
+Boilerplate for static website
